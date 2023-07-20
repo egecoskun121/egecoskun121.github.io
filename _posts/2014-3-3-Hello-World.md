@@ -12,7 +12,7 @@ And the API has some access levels we need to talk about:
 
 In the free versions description it mentions that "For write-only use cases and testing the Twitter API".
 
-Also you can only post 1500 per month. Finally, we can only use this API with 1 app ID.
+Also, you can only post 1500 per month. Finally, we can only use this API with 1 app ID.
 
 Basic version has 3000 post per month, and you can use it with 2 different app IDs. It costs 100$.
 
