@@ -17,7 +17,7 @@ Also, you can only post 1500 per month. Don't forget that we can only use this A
 
 The Basic version has post 3000 per month, and you can use it with 2 different app IDs. It costs 100$.
 
-Probably my company is going to go with the free version or basic version.
+Probably I am  going to go with the free version or basic version.
 
 Like I said,
 they have an exceptional documentation for the API and they have a Postman collection for you to try the endpoints.
