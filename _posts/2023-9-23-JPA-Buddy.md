@@ -6,8 +6,10 @@ In today's episode, I will mainly talk about JPA Buddy and how do I use it in my
 
 Just found out JPA Buddy while working on a task, and it really boosts my productivity.
 
-In their official documentation, they also state that this plugin intended to
+In their official documentation, they also state that this plugin intended to:
+
 *Lower barrier to entry into development with JPA
+
 *Boost developer's productivity
 
 You can check out their official documentation from  [here](https://jpa-buddy.com/documentation/).
